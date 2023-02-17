@@ -1,6 +1,7 @@
 {
   "name": "andm/example-shopware-plugin-0",
   "description": "Skeleton plugin",
+  "version": "1.0.0",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "autoload": {
